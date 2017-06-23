@@ -1,14 +1,14 @@
   // Initialize Firebase
   var config = {
 
-    //TODO: Atualizar pelos dados do firebase da conta do devfest ou gdgrio
-    apiKey: "AIzaSyBTfT1sRCmXK4PAfq9SmFOE6zXArlfZ7_Y",
-    authDomain: "dfrio-3ab08.firebaseapp.com",
-    databaseURL: "https://dfrio-3ab08.firebaseio.com",
-    projectId: "dfrio-3ab08",
-    storageBucket: "dfrio-3ab08.appspot.com",
-    messagingSenderId: "263686375294"
+    apiKey: "AIzaSyAKLv-ecHmJek66cpi96ZucfOAMFMh5m0E",
+    authDomain: "dfrio2017.firebaseapp.com",
+    databaseURL: "https://dfrio2017.firebaseio.com",
+    projectId: "dfrio2017",
+    storageBucket: "",
+    messagingSenderId: "34296415824"
   };
+
   firebase.initializeApp(config);
 
   function writeUserData(email) {
