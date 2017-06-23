@@ -1,11 +1,10 @@
   // Initialize Firebase
   var config = {
-
     apiKey: "AIzaSyAKLv-ecHmJek66cpi96ZucfOAMFMh5m0E",
     authDomain: "dfrio2017.firebaseapp.com",
     databaseURL: "https://dfrio2017.firebaseio.com",
     projectId: "dfrio2017",
-    storageBucket: "",
+    storageBucket: "dfrio2017.appspot.com",
     messagingSenderId: "34296415824"
   };
 
